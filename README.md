@@ -4,7 +4,7 @@ This project presents a comparative analysis of two widely used depreciation met
 
 ## 🔍 Project Overview
 
-- **Asset Price**: ₹54,000  
+- **Asset Price**: ₹5,00,000
 - **Scrap Value**: ₹50,000  
 - **Life Span**: 10 years  
 - **Methods Compared**:
